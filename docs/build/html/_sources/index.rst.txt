@@ -9,7 +9,7 @@ Welcome to LeFreeGo's documentation!
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
-   About the Project
+   
 
 Indices and tables
 ==================
