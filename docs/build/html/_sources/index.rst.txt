@@ -17,3 +17,12 @@ Indices and tables
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
+
+About the Project
+==================
+
+Getting Started: Installation
+=============================
+
+How to use
+==========
