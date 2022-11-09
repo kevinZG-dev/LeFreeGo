@@ -3,7 +3,7 @@
 #
 
 tomcat
-
+bin/
 #
 # Default excludes
 #
@@ -22,20 +22,20 @@ tomcat
 *.sar
 *.class
 
-# Maven 
-target/
-
-# IntelliJ project files 
-*.iml
-*.iws
-*.ipr
-.idea/
-
 # eclipse project file
 .settings/
 .classpath
 .project
+.metadata
+.gradle
+bin/
+tmp/
+*.tmp
+*.bak
+*.swp
+*~.nib
 
+*.class
 # NetBeans specific
 nbproject/private/
 build/
