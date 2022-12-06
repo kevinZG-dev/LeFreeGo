@@ -11,15 +11,11 @@ Welcome to LeFreeGo's documentation!
    :caption: Contents:
    
 
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
 
 About the Project
 ==================
+
+ffbfgbgfbgbgb
 
 Getting Started: Installation
 =============================
