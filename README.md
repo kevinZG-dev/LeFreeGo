@@ -9,6 +9,7 @@
 - Add meals and recipe
 - Send the shopping list by email
 
+## How to commit ?
  
 ## Quick tour
 
