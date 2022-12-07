@@ -9,9 +9,13 @@
 - Add meals and recipe
 - Send the shopping list by email
 
-## How to commit ?
- 
-## Quick tour
+## Contributing
+You're welcome to help the freeGo teams, we appreciate any kind of feedbacks and coding help. 
+
+Please contact us by mail : 
+* charlotte.bergot@lefreego.com
+* maud.busserolles@lefreego.com
+* kevin.zhang@lefreego.com
 
 ## Installation
 
@@ -22,4 +26,4 @@
 | [Documentation](https://lefreego.readthedocs.io/en/latest/) | Full App documentation and tutorials |
 | Task summary | Tasks supported by 🤗 LeFreego |
 
-## Citation
+
