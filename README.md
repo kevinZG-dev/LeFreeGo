@@ -22,7 +22,7 @@ You're welcome to help the FreeGo teams, we appreciate any kind of feedbacks and
 Please contact us by mail : 
 * charlotte.bergot@lefreego.com
 * maud.busserolles@lefreego.com
-* kevin.zhang@lefreego.com
+* kevin.zheng@lefreego.com
 
 ## Installation
 * Dowload the files : https://kevinzg-dev.github.io/LeFreeGo/
