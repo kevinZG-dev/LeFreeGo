@@ -1,4 +1,4 @@
-![My Image](images/GO.png) # LeFreeGo
+![My Image](images/GO_69.png) # LeFreeGo
  LeFreeGo helps you to choose randomly meals and automatically generates the shopping list you need depending on the meals, for how many people, items you already have and other specific parameters.
  
 ## Features 
