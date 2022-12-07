@@ -11,6 +11,6 @@ permalink: /features/
 - Add meals and recipe
 - Send the shopping list by email
 
-<img src="/assets/images/image.png" style="border: 1px solid black" />
+<img src="/LeFreeGo/assets/images/image.png" style="border: 1px solid black" />
 
 
