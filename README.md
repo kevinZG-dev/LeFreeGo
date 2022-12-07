@@ -25,7 +25,7 @@ Please contact us by mail :
 * kevin.zhang@lefreego.com
 
 ## Installation
-* Dowload the files
+* Dowload the files : https://kevinzg-dev.github.io/LeFreeGo/
 * Dowload eclipse : https://www.eclipse.org/downloads/
 * Dowload MySql WorkBench : https://www.mysql.com/products/workbench/ (suggested to manage the datas)
 
@@ -34,6 +34,7 @@ Please contact us by mail :
 | Section | Description |
 |-|-|
 | [Documentation](https://lefreego.readthedocs.io/en/latest/) | Full App documentation and tutorials |
+| [Website](https://kevinzg-dev.github.io/LeFreeGo/) | LeFreeGo Website |
 | Task summary | Tasks supported by 🤗 LeFreego |
 
 
