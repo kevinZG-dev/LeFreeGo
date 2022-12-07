@@ -1,5 +1,6 @@
-![My Image](images/GO_1_20.png) ## LeFreeGo
- LeFreeGo helps you to choose randomly meals and automatically generates the shopping list you need depending on the meals, for how many people, items you already have and other specific parameters.
+![My Image](images/GO_1_20.png) 
+## LeFreeGo
+LeFreeGo helps you to choose randomly meals and automatically generates the shopping list you need depending on the meals, for how many people, items you already have and other specific parameters.
  
 ## Features 
 - Choose differents meals you want to eat and quantity
@@ -10,7 +11,7 @@
 - Send the shopping list by email
 
 ## Contributing
-You're welcome to help the freeGo teams, we appreciate any kind of feedbacks and coding help. 
+You're welcome to help the FreeGo teams, we appreciate any kind of feedbacks and coding help. 
 
 Please contact us by mail : 
 * charlotte.bergot@lefreego.com
@@ -18,7 +19,10 @@ Please contact us by mail :
 * kevin.zhang@lefreego.com
 
 ## Installation
-
+* Dowload the files
+* Dowload eclipse : https://www.eclipse.org/downloads/
+* Dowload MySql WorkBench : https://www.mysql.com/products/workbench/ (suggested)
+* 
 ## Learn more
 
 | Section | Description |
