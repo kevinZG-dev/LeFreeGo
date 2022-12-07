@@ -1,6 +1,12 @@
 ![My Image](images/GO_1_20.png) 
 ## LeFreeGo
 LeFreeGo helps you to choose randomly meals and automatically generates the shopping list you need depending on the meals, for how many people, items you already have and other specific parameters.
+
+## Table of Contents
+- [Features](#features)
+- [Contributing](#contributing)
+- [Installation](#installation)
+- [Learn more](#learn-more)
  
 ## Features 
 - Choose differents meals you want to eat and quantity
