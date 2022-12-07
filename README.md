@@ -27,7 +27,7 @@ Please contact us by mail :
 ## Installation
 * Dowload the files
 * Dowload eclipse : https://www.eclipse.org/downloads/
-* Dowload MySql WorkBench : https://www.mysql.com/products/workbench/ (suggested)
+* Dowload MySql WorkBench : https://www.mysql.com/products/workbench/ (suggested to manage the datas)
 
 ## Learn more
 
