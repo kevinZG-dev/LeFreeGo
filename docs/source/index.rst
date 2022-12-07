@@ -21,7 +21,7 @@ The software is coded in Java and link to a database MySql. We used java swing f
 =============================
 Getting Started: Installation
 =============================
-* Dowload the files
+* Dowload the files : https://github.com/kevinZG-dev/LeFreeGo
 * Dowload eclipse : https://www.eclipse.org/downloads/
 * Dowload MySql WorkBench : https://www.mysql.com/products/workbench/ (suggested)
 
@@ -29,7 +29,7 @@ Getting Started: Installation
 How to use
 ==========
 
-Mettre un screen de la main interface, avec des flèches pur expliquer qui fait quoi
+.. image:: /images/use.png
 
 
 ===============
