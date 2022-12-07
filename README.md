@@ -22,7 +22,7 @@ Please contact us by mail :
 * Dowload the files
 * Dowload eclipse : https://www.eclipse.org/downloads/
 * Dowload MySql WorkBench : https://www.mysql.com/products/workbench/ (suggested)
-* 
+
 ## Learn more
 
 | Section | Description |
