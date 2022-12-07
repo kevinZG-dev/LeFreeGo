@@ -1,6 +1,7 @@
 <header class="site-header">
 
   <div class="wrapper">
+    <img src="/assets/images/logo.png" alt="" style="max-width: 55px;">
     {%- assign default_paths = site.pages | map: "path" -%}
     {%- assign page_paths = site.header_pages | default: default_paths -%}
     {%- assign titles_size = site.pages | map: 'title' | join: '' | size -%}
@@ -24,7 +25,7 @@
             <a class="page-link" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
             {%- endif -%}
           {%- endfor -%}
-        <a href="https://github.com/kevinZG-dev/LeFreeGo">Github</a>
+        <a href="https://github.com/kevinZG-dev/LeFreeGo" target="_blank">Community</a>
           
         </div>
       </nav>

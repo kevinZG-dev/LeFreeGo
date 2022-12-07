@@ -4,15 +4,9 @@ title: Contact Us
 permalink: /ContactUs/
 ---
 
-Contact [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+<form accept-charset="UTF-8" enctype="multipart/form-data" target="_blank">
+    <input type="email" name="email" placeholder="Your Email">
+    <input type="text" name="name" placeholder="Your Name">
+    <input type="text" name="message" placeholder="Your Message">
+    <button type="submit">Send</button>
+</form>
